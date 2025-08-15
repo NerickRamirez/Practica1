@@ -1,7 +1,11 @@
 header h1 {
   color: rgb(15, 15, 155);
+  border: 3px solid black;
 }
 
+header .nombre {
+  background-color: #4f88a0;
+}
 
 section h2 {
   color: rgb(1, 95, 1);
